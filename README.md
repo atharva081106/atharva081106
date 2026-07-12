@@ -1,447 +1,141 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Atharva Upendra Wani 👋</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,50:2563EB,100:00E5FF&text=ATHARVA.OS&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Artificial%20Intelligence%20Operating%20System&descAlignY=60"/>
+<h3 align="center">AI/ML Engineer • Data Scientist • Full-Stack Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems+with+LangGraph+%26+RAG;Training+ML+Models+that+Actually+Ship;Crafting+Full-Stack+Apps+with+React+%26+FastAPI;B.Tech+in+AI%2FML+%7C+BS+in+Data+Science+%40+IIT+Madras" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:atharva.upendra.wani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 About Me
+
+- 🎓 Pursuing **B.Tech in AI & Machine Learning** (CGPA: 8.91/10) while concurrently completing a **BS in Data Science** from **IIT Madras**
+- 🚀 Shipped **15+ production-grade projects** spanning agentic AI, computer vision, predictive analytics, and full-stack systems
+- 🧩 Currently building **PolicyGPT** — an agentic RAG platform for insurance intelligence using LangGraph + Qdrant
+- 👨‍💻 AI/ML Lead at **CoDE Club**, hosting developer bootcamps and driving tech initiatives on campus
+- 🏆 100+ optimized DSA problems solved on LeetCode
+- 📫 Reach me at **atharva.upendra.wani@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,fastapi,express,tailwind,html,css,mongodb,postgres,mysql,git,github,docker,vscode&theme=dark" />
+</p>
+
+<details>
+<summary><b>📚 Full Skill Breakdown</b></summary>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Booting+Neural+Engine...;Loading+Machine+Learning+Modules...;Initializing+Agentic+AI...;Connecting+Vector+Database...;System+Status+%3A+ONLINE+%E2%9C%94;Welcome+to+ATHARVA.OS"/>
+**Languages:** Python · JavaScript · TypeScript · C++ · C · SQL
 
-<br>
+**AI & Machine Learning:** TensorFlow · PyTorch · Scikit-Learn · XGBoost · Prophet (Time-Series Forecasting)
 
-<img src="https://komarev.com/ghpvc/?username=atharva081106&style=for-the-badge&color=00bfff"/>
+**Computer Vision & NLP:** OpenCV · MediaPipe · LangGraph · LangChain · Qdrant · Vector Embeddings · Semantic Search · SHAP
 
-</div>
+**Data Science & Analytics:** Pandas · NumPy · Matplotlib · Seaborn · Plotly · EDA · Custom Metrics
 
----
+**Web Frameworks:** React · Next.js · Node.js · Express · FastAPI · Tailwind CSS · Socket.io · WebAssembly
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║              ATHARVA.OS  •  Version 2.6                      ║
-║                                                              ║
-║         Artificial Intelligence Operating System             ║
-║                                                              ║
-║  STATUS      : 🟢 ONLINE                                     ║
-║  DEVELOPER   : Atharva Wani                                 ║
-║  LOCATION    : Pune, India                                  ║
-║  BUILD       : PolicyGPT                                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**Databases & Tools:** MongoDB · PostgreSQL · MySQL · Git · GitHub · Docker · Vercel · RESTful APIs · System Design
+
+</details>
 
 ---
 
-# > boot.log
-
-```bash
-$ boot
-
-Initializing Neural Engine.................... OK
-
-Loading Machine Learning Modules.............. OK
-
-Loading Deep Learning Modules................. OK
-
-Loading Agentic AI............................ OK
-
-Connecting Vector Database.................... OK
-
-Loading Projects.............................. OK
-
-Authentication............................... SUCCESS
-
-Welcome to ATHARVA.OS
-```
-
----
-
-# 🧠 SYSTEM PROFILE
-
-```yaml
-Developer:
-  name: Atharva Wani
-
-Role:
-  AI Engineer
-
-Specialization:
-  - Machine Learning
-  - Data Science
-  - Generative AI
-  - Agentic AI
-  - MLOps
-
-Current Build:
-  PolicyGPT
-
-Current Objective:
-  Build intelligent systems that solve real-world problems.
-
-Status:
-  ONLINE
-```
-
----
-
-# ⚡ LOADED MODULES
-
-<div align="center">
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript"/>
-
----
-
-### Artificial Intelligence
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangGraph-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface"/>
-
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Qdrant-FF4F8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge"/>
-
----
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,flask,docker,git,github,vscode"/>
-
-</div>
-
----
-
-# 🎯 CURRENT OBJECTIVES
-
-```text
-MISSION STATUS
-
-[████████████████████] Build PolicyGPT
-
-[████████████████░░░░] Master MLOps
-
-[████████████████████] Learn Machine Learning
-
-[████████████████████] Build AI Agents
-
-[███████████████░░░░░] Contribute to Open Source
-
-[████████████████░░░░] Production AI Systems
-```
----
-
-# 🚀 MISSION DATABASE
-
-> _Every project is a mission. Every commit is progress._
-
-<br>
+### 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%">
 
-## 🛡️ MISSION 001
-
-### **PolicyGPT**
-
-```text
-STATUS  : ████████████░░░ 65%
-
-TYPE    : Agentic AI Platform
-
-STATE   : ACTIVE
-
-ENGINE  : RAG + LLM + FastAPI
-```
-
-### Mission Brief
-
-An AI-powered insurance assistant that understands,
-searches and compares insurance policies using
-semantic search, vector databases and modern LLMs.
-
-**Tech Stack**
-
-`Python` `FastAPI` `LangChain`
-`Qdrant` `Ollama`
-`React` `Docker`
+**🤖 [PolicyGPT — Agentic Insurance Intelligence](#)**
+<br>Multi-agent RAG platform for insurance policy analysis using LangGraph, autonomous planning agents, and citation-backed responses.
+<br><sub>`LangGraph` `FastAPI` `Qdrant` `PostgreSQL` `React`</sub>
 
 </td>
-
 <td width="50%">
 
-## 📊 MISSION 002
-
-### **Customer Churn Prediction**
-
-```text
-STATUS  : ████████████████ 100%
-
-TYPE    : Machine Learning
-
-STATE   : DEPLOYED
-```
-
-### Mission Brief
-
-Built an end-to-end machine learning pipeline for
-predicting customer churn with feature engineering,
-model evaluation and explainability.
-
-**Tech Stack**
-
-`Python`
-
-`Pandas`
-
-`Scikit-Learn`
-
-`Matplotlib`
+**🩻 [DevX-Ray AI — Code Diagnostics Engine](#)**
+<br>Static code intelligence dashboard using Gemini Pro to generate personalized 4-week upskilling roadmaps from codebase analysis.
+<br><sub>`Next.js 14` `FastAPI` `Gemini API` `Radon` `Pylint`</sub>
 
 </td>
-
 </tr>
+<tr>
+<td width="50%">
 
+**📈 [StockSense — AI Stock Analyzer](#)**
+<br>End-to-end MERN + FastAPI analytics platform with Claude-powered Q&A, live NSE/BSE tracking, and Prophet-based forecasting.
+<br><sub>`React 18` `Claude API` `Socket.io` `Prophet`</sub>
+
+</td>
+<td width="50%">
+
+**📊 [Customer Churn Prediction Platform](#)**
+<br>Full ML pipeline comparing Logistic Regression, Random Forest & XGBoost, with SHAP explainability in a Streamlit app.
+<br><sub>`Scikit-learn` `XGBoost` `SHAP` `Streamlit`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎮 [GestureStrike — CV Arcade Game](#)**
+<br>Hands-free 2D shooter using 21-landmark MediaPipe hand tracking, exponential smoothing, and an adaptive FSM enemy AI at ~30 FPS.
+<br><sub>`Pygame` `MediaPipe` `OpenCV`</sub>
+
+</td>
+<td width="50%">
+
+<br>
+<div align="center"><i>More projects on my <a href="#">GitHub</a> & <a href="#">Portfolio</a> →</i></div>
+
+</td>
+</tr>
 </table>
 
 ---
 
-<table>
-<tr>
+### 📊 GitHub Stats
 
-<td width="50%">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🤖 MISSION 003
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-### **AI Agents**
-
-```text
-STATUS  : █████████░░░░░ 45%
-
-TYPE    : Multi-Agent Systems
-
-STATE   : IN DEVELOPMENT
-```
-
-### Mission Brief
-
-Building autonomous AI agents capable of planning,
-reasoning and tool usage using LangGraph.
-
-</td>
-
-<td width="50%">
-
-## 🧠 MISSION 004
-
-### **Next Mission**
-
-```text
-STATUS  : LOCKED
-
-██████░░░░░░░░░░
-```
-
-Coming Soon...
-
-</td>
-
-</tr>
-
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 📡 ACTIVE MODULES
+### 🎓 Education
 
-```text
-✔ Machine Learning
-
-✔ Deep Learning
-
-✔ Data Science
-
-✔ Computer Vision
-
-✔ NLP
-
-✔ RAG
-
-✔ Agentic AI
-
-✔ FastAPI
-
-✔ Docker
-
-✔ Git
-
-✔ React
-```
+| Degree | Institution | Status |
+|---|---|---|
+| **B.Tech in Artificial Intelligence & Machine Learning** | P.E.S. Modern College of Engineering, Pune | Expected 2028 · CGPA 8.91/10 |
+| **BS in Data Science & Applications** | Indian Institute of Technology (IIT), Madras | In Progress (Concurrent Degree) |
 
 ---
 
-# 📊 SYSTEM ANALYTICS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=atharva081106&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=atharva081106&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva081106&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌌 ACTIVITY MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva081106&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
----
-
-# 🖥️ NEURAL TERMINAL
-
-```console
-visitor@atharva-os:~$ help
-
-Available Commands
-
-about        → View developer profile
-
-missions     → Browse active AI projects
-
-skills       → View loaded modules
-
-analytics    → Display GitHub analytics
-
-contact      → Open communication channels
-
-resume       → AI/ML Engineer in progress...
-```
-
-```console
-visitor@atharva-os:~$ system-status
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Neural Engine      ████████████████████ 100%
-
-Machine Learning   ████████████████████ 100%
-
-Deep Learning      ████████████████░░░  80%
-
-Agentic AI         █████████████████░░  85%
-
-MLOps              ████████████░░░░░░░  60%
-
-Deployment          ██████████░░░░░░░░  55%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-System State : ONLINE
-
-Build : ATHARVA.OS v2.6
-```
-
----
-
-# 🎯 OBJECTIVE LOG
-
-```text
-MISSION LOG
-
-[✓] Learn Python
-
-[✓] Learn Data Structures
-
-[✓] Build Machine Learning Projects
-
-[✓] Learn Deep Learning
-
-[✓] Build Agentic AI
-
-[ ] Master MLOps
-
-[ ] Deploy Production AI
-
-[ ] Contribute to Major Open Source
-
-[ ] Land AI Engineering Internship
-```
-
----
-
-# 🛰 TRANSMISSION CHANNELS
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="mailto:atharva.upendra.wani@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💭 CORE PRINCIPLE
-
-<div align="center">
-
-> **"Artificial Intelligence isn't about replacing people.**
->
-> **It's about building systems that help people solve bigger problems."**
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting ATHARVA.OS
-
-```
-Shutting down Neural Engine...
-
-Saving Session........................ COMPLETE
-
-Closing Active Modules................ COMPLETE
-
-Goodbye, Visitor.
-
-See you in the next commit.
-```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00E5FF,50:2563EB,100:0B1026"/>
-
-</div>
+<p align="center">
+  <i>⚡ "Blending mathematical rigor with full-stack execution to build software that scales."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
+</p>
