@@ -7,9 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://img.shields.io/badge/Pune,_Maharashtra-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <a href="mailto:atharva.upendra.wani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -17,19 +15,19 @@
 
 ### 🧠 About Me
 
-- 🎓 Pursuing **B.Tech in AI & Machine Learning** (CGPA: 8.91/10) while concurrently completing a **BS in Data Science** from **IIT Madras**
-- 🚀 Shipped **15+ production-grade projects** spanning agentic AI, computer vision, predictive analytics, and full-stack systems
+- 🎓 Pursuing a **B.Tech in AI & Machine Learning** (CGPA: **8.91/10**) while concurrently completing a **BS in Data Science** from **IIT Madras**
+- 🚀 Delivered **15+ complex projects** spanning agentic AI, computer vision, predictive analytics, and full-stack systems
 - 🧩 Currently building **PolicyGPT** — an agentic RAG platform for insurance intelligence using LangGraph + Qdrant
-- 👨‍💻 AI/ML Lead at **CoDE Club**, hosting developer bootcamps and driving tech initiatives on campus
-- 🏆 100+ optimized DSA problems solved on LeetCode
-- 📫 Reach me at **atharva.upendra.wani@gmail.com**
+- 👨‍💻 **AI/ML Lead** at the **CoDE Club** engineering chapter, hosting developer bootcamps and planning tech integrations
+- 🏆 Solved **100+** optimized data structure & algorithm problems on LeetCode
+- 📫 **atharva.upendra.wani@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,fastapi,express,tailwind,html,css,mongodb,postgres,mysql,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nextjs,nodejs,fastapi,express,tailwind,html,css,mongodb,postgres,mysql,git,github,docker&theme=dark" />
 </p>
 
 <details>
@@ -42,7 +40,7 @@
 
 **Computer Vision & NLP:** OpenCV · MediaPipe · LangGraph · LangChain · Qdrant · Vector Embeddings · Semantic Search · SHAP
 
-**Data Science & Analytics:** Pandas · NumPy · Matplotlib · Seaborn · Plotly · EDA · Custom Metrics
+**Data Science & Analytics:** Pandas · NumPy · Matplotlib · Seaborn · Plotly · Data Ingestion · EDA · Custom Metrics
 
 **Web Frameworks:** React · Next.js · Node.js · Express · FastAPI · Tailwind CSS · Socket.io · WebAssembly
 
@@ -56,70 +54,48 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🤖 [PolicyGPT — Agentic Insurance Intelligence](#)**
-<br>Multi-agent RAG platform for insurance policy analysis using LangGraph, autonomous planning agents, and citation-backed responses.
-<br><sub>`LangGraph` `FastAPI` `Qdrant` `PostgreSQL` `React`</sub>
-
-</td>
-<td width="50%">
-
-**🩻 [DevX-Ray AI — Code Diagnostics Engine](#)**
-<br>Static code intelligence dashboard using Gemini Pro to generate personalized 4-week upskilling roadmaps from codebase analysis.
-<br><sub>`Next.js 14` `FastAPI` `Gemini API` `Radon` `Pylint`</sub>
+**🤖 PolicyGPT — Agentic Insurance Intelligence Platform** <sub>(Ongoing)</sub>
+<br>Multi-agent RAG platform for insurance policy analysis. Designed autonomous planning, enterprise retrieval, and citation-backed response generation with a real-time React chat dashboard and custom conversational memory.
+<br><sub>`Python` `FastAPI` `LangGraph` `LangChain` `Qdrant` `PostgreSQL` `React` `Docker`</sub>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**📈 [StockSense — AI Stock Analyzer](#)**
-<br>End-to-end MERN + FastAPI analytics platform with Claude-powered Q&A, live NSE/BSE tracking, and Prophet-based forecasting.
-<br><sub>`React 18` `Claude API` `Socket.io` `Prophet`</sub>
-
-</td>
-<td width="50%">
-
-**📊 [Customer Churn Prediction Platform](#)**
-<br>Full ML pipeline comparing Logistic Regression, Random Forest & XGBoost, with SHAP explainability in a Streamlit app.
-<br><sub>`Scikit-learn` `XGBoost` `SHAP` `Streamlit`</sub>
+**🩻 DevX-Ray AI — Intelligent Code Diagnostics Engine** <sub>(Technical Lead)</sub>
+<br>Static code intelligence dashboard integrating Google Gemini Pro to generate 4-week upskilling roadmaps. Built pipelines via Radon/Pylint to score cyclomatic complexity and code quality in under 10 seconds.
+<br><sub>`Next.js 14` `FastAPI` `Gemini API` `Recharts` `Radon` `Pylint`</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎮 [GestureStrike — CV Arcade Game](#)**
-<br>Hands-free 2D shooter using 21-landmark MediaPipe hand tracking, exponential smoothing, and an adaptive FSM enemy AI at ~30 FPS.
-<br><sub>`Pygame` `MediaPipe` `OpenCV`</sub>
-
-</td>
-<td width="50%">
-
-<br>
-<div align="center"><i>More projects on my <a href="#">GitHub</a> & <a href="#">Portfolio</a> →</i></div>
+**📈 StockSense — AI-Powered Stock Analyzer** <sub>(Full-Stack Developer)</sub>
+<br>End-to-end MERN + FastAPI analytics platform for NSE/BSE and global markets, with Claude-powered NLQ, real-time alerts via Socket.io/Nodemailer, and a Prophet + 6-factor regression forecasting engine.
+<br><sub>`React 18` `Node.js` `FastAPI` `MongoDB` `Claude API` `Socket.io` `Prophet`</sub>
 
 </td>
+<td width="50%" valign="top">
+
+**📊 Customer Churn Prediction Platform** <sub>(Data Scientist & ML Engineer)</sub>
+<br>Full ML workflow — preprocessing, EDA, and comparison of Logistic Regression, Decision Trees, Random Forest & XGBoost — with SHAP explainability deployed via a low-latency Streamlit app.
+<br><sub>`Scikit-learn` `XGBoost` `SHAP` `Streamlit` `Pandas`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎮 GestureStrike — Computer Vision Arcade Game** <sub>(Python Developer)</sub>
+<br>Hands-free 2D shooter in Pygame using 21-landmark MediaPipe hand tracking, exponential smoothing with dead-zone suppression, and an adaptive FSM enemy AI running at ~30 FPS on edge hardware.
+<br><sub>`Python` `Pygame` `MediaPipe` `OpenCV` `NumPy`</sub>
+
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
 
 ---
 
@@ -127,15 +103,18 @@
 
 | Degree | Institution | Status |
 |---|---|---|
-| **B.Tech in Artificial Intelligence & Machine Learning** | P.E.S. Modern College of Engineering, Pune | Expected 2028 · CGPA 8.91/10 |
-| **BS in Data Science & Applications** | Indian Institute of Technology (IIT), Madras | In Progress (Concurrent Degree) |
+| **B.Tech in Artificial Intelligence & Machine Learning** | P.E.S. Modern College of Engineering, Pune | Expected 2028 · CGPA 8.91/10.00 |
+| **BS in Data Science & Applications** | Indian Institute of Technology (IIT), Madras | In Progress (Concurrent Degree Program) |
+
+---
+
+### 📜 Certifications
+
+- **Data Science & Analytics Complete Masterclass** — Code With Harry
+- **100 Days of Code: The Complete Python Pro Bootcamp** — Dr. Angela Yu, Udemy
 
 ---
 
 <p align="center">
   <i>⚡ "Blending mathematical rigor with full-stack execution to build software that scales."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat" />
 </p>
