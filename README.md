@@ -1,27 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Atharva%20Upendra%20Wani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:2AF598&height=260&section=header&text=ATHARVA%20UPENDRA%20WANI&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Agentic+AI+with+LangGraph+%2B+RAG+%F0%9F%A4%96;Training+ML+Models+that+Actually+Ship+%F0%9F%9A%80;B.Tech+AI%2FML+%7C+BS+Data+Science+%40+IIT+Madras+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=2AF598,FF0080,7928CA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E+Building+Agentic+AI+with+LangGraph+%2B+RAG+%F0%9F%A4%96;%3E+Training+ML+Models+that+Actually+Ship+%F0%9F%9A%80;%3E+B.Tech+AI%2FML+%7C+BS+Data+Science+%40+IIT+Madras+%F0%9F%8E%93;%3E+status%3A+always_shipping.exe" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Pune,_Maharashtra-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<a href="mailto:atharva.upendra.wani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=atharva081106&label=Profile%20Views&color=a78bfa&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pune,_Maharashtra-FF0080?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<a href="mailto:atharva.upendra.wani@gmail.com"><img src="https://img.shields.io/badge/Gmail-2AF598?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+<img src="https://komarev.com/ghpvc/?username=atharva081106&label=PROFILE+VIEWS&color=7928CA&style=for-the-badge" />
 
 </div>
 
 <br>
 
-<!-- ================= SNAKE GAME ================= -->
+<!-- ============ TERMINAL BOOT SEQUENCE ============ -->
 <div align="center">
 
-### 🐍 My Contribution Snake
-
-<img src="https://raw.githubusercontent.com/atharva081106/atharva081106/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-<sub>⚙️ Animates automatically from my commit history via a GitHub Action — see setup note at the bottom</sub>
+```ansi
+[38;5;46m┌──────────────────────────────────────────────────────────┐[0m
+[38;5;46m│[0m [38;5;51m$ whoami[0m                                                  [38;5;46m│[0m
+[38;5;46m│[0m   atharva_wani — ai_engineer / full_stack / data_scientist  [38;5;46m│[0m
+[38;5;46m│[0m [38;5;51m$ status[0m                                                   [38;5;46m│[0m
+[38;5;46m│[0m   [ONLINE] building PolicyGPT :: agentic RAG platform       [38;5;46m│[0m
+[38;5;46m│[0m [38;5;51m$ uptime[0m                                                   [38;5;46m│[0m
+[38;5;46m│[0m   caffeine_powered — 8.91 CGPA — 100+ leetcode solved       [38;5;46m│[0m
+[38;5;46m└──────────────────────────────────────────────────────────┘[0m
+```
 
 </div>
 
@@ -31,7 +36,7 @@
 
 ### 🧠 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/aritraroy/aritraroy/master/gif3.gif" />
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
 - 🎓 Pursuing a **B.Tech in AI & Machine Learning** (CGPA: **8.91/10**) while concurrently completing a **BS in Data Science** from **IIT Madras**
 - 🚀 Delivered **15+ complex projects** across agentic AI, computer vision, predictive analytics, and full-stack systems
@@ -41,6 +46,19 @@
 - ⚡ Fun fact: I'd rather debug a race condition than skip leg day
 
 <br clear="right"/>
+
+---
+
+### 📈 System Stats (unofficial)
+
+<div align="center">
+
+`Debugging Skills` ![](https://progress-bar.xyz/95?title=&width=250&color=FF0080)
+`Coffee Dependency` ![](https://progress-bar.xyz/100?title=&width=250&color=7928CA)
+`Sleep Schedule` ![](https://progress-bar.xyz/20?title=&width=250&color=2AF598)
+`Model Training Patience` ![](https://progress-bar.xyz/85?title=&width=250&color=FFB800)
+
+</div>
 
 ---
 
@@ -132,15 +150,23 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atharva081106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva081106&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=atharva081106&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva081106&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva081106&theme=tokyonight&hide_border=true" width="90%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atharva081106&theme=radical&hide_border=true&background=0d1117" width="90%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva081106&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharva081106&theme=react-dark&hide_border=true&bg_color=0d1117&color=2AF598&line=FF0080&point=7928CA" width="100%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=atharva081106&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=atharva081106&theme=radical&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
 
+</div>
+
+---
+
+### 💭 Quote of the Moment
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 ---
@@ -167,6 +193,6 @@
 
 <i>"Blending mathematical rigor with full-stack execution to build software that scales."</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2AF598,50:7928CA,100:FF0080&height=150&section=footer" width="100%"/>
 
 </div>
